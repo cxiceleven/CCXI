@@ -12,6 +12,7 @@ export default function Hero2() {
               src={heroImg}
               width="916"
               height="617"
+              className="mix-blend-color-dodge"
               alt="Hero Illustration"
               layout="intrinsic"
               loading="eager"
