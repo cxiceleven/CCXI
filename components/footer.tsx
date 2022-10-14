@@ -13,7 +13,7 @@ export default function Footer() {
   ];
   const legal = ["Terms", "Privacy", "Legal"];
   return (
-    <div className="relative bg-no-repeat bg-cover dark:bg-[url('/img/CXIBlue/footerBg.png')]">
+    <div className="relative bg-no-repeat bg-cover dark:bg-[url('/img/CXIBlue/footerBg2.png')]">
       <Container>
         <div className="grid max-w-screen-xl grid-cols-1 gap-10 pt-10 mx-auto mt-5 border-t border-gray-100 dark:border-trueGray-700 lg:grid-cols-5">
           <div className="lg:col-span-2">
@@ -23,7 +23,7 @@ export default function Footer() {
                 <a className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
                   <span>
                     <img
-                      src="/img/CXIBlue/logo.png"
+                      src="/img/CXIBlue/logofooterwhite.png"
                       alt="N"
                       width="32"
                       height="32"

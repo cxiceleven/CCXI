@@ -8,7 +8,7 @@ import roadmapBall from "../public/img/CXIBlue/roadmapBall.png";
 export default function Roadmap() {
   return (
     <>
-      <div className="bg-no-repeat bg-cover dark:bg-[url('/img/CXIBlue/roadmapBg.png')]">
+      <div className="bg-no-repeat bg-cover dark:bg-[url('/img/CXIBlue/roadmapBg2.png')]">
         <div className="flex flex-wrap justify-center pb-36">
           <div className="flex items-center w-full lg:w-1/5">
             <div className="pb-[315px] pl-[130px]">

@@ -32,7 +32,7 @@ export default function Benefits(props:any) {
           }`}>
           <div>
             <div className="flex flex-col w-full mt-4">
-              <h3 className="text-center -mb-12 max-w-2xl text-3xl font-bold leading-snug tracking-tight text-gray-800 lg:leading-tight lg:text-5xl bg-gradient-to-bl from-cyan-400 via-blue-600 to-blue-700 text-transparent bg-clip-text">
+              <h3 className="text-center -mb-12 max-w-2xl text-3xl font-bold leading-snug tracking-tight text-gray-800 lg:leading-tight lg:text-5xl bg-gradient-to-bl from-cyan-400 via-blue-600 to-blue-900 text-transparent bg-clip-text">
               {data.title2}
               </h3>
               <h3 className="text-center max-w-2xl mt-3 text-3xl font-bold leading-snug tracking-tight text-gray-800 lg:leading-tight lg:text-4xl dark:text-white">
