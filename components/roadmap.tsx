@@ -3,7 +3,7 @@ import Container from "./container";
 import roadmapL from "../public/img/CXIBlue/roadmapL.png";
 import roadmapR from "../public/img/CXIBlue/roadmapR.png";
 import roadmapArc from "../public/img/CXIBlue/roadmapArc.png";
-import roadmapBall from "../public/img/CXIBlue/roadmapBall.png";
+import roadmapBall from "../public/img/CXIBlue/roadmapBall2.png";
 
 export default function Roadmap() {
   return (
